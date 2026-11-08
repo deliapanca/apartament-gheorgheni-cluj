@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deliapanca.github.io/apartament-gheorgheni-cluj/sitemap.xml
